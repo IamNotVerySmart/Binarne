@@ -1,0 +1,14 @@
+C:\Users\xalie\source\repos\Binaries\Binaries\bin\Debug\net6.0\Binaries.exe
+C:\Users\xalie\source\repos\Binaries\Binaries\bin\Debug\net6.0\Binaries.deps.json
+C:\Users\xalie\source\repos\Binaries\Binaries\bin\Debug\net6.0\Binaries.runtimeconfig.json
+C:\Users\xalie\source\repos\Binaries\Binaries\bin\Debug\net6.0\Binaries.dll
+C:\Users\xalie\source\repos\Binaries\Binaries\bin\Debug\net6.0\Binaries.pdb
+C:\Users\xalie\source\repos\Binaries\Binaries\obj\Debug\net6.0\Binaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xalie\source\repos\Binaries\Binaries\obj\Debug\net6.0\Binaries.AssemblyInfoInputs.cache
+C:\Users\xalie\source\repos\Binaries\Binaries\obj\Debug\net6.0\Binaries.AssemblyInfo.cs
+C:\Users\xalie\source\repos\Binaries\Binaries\obj\Debug\net6.0\Binaries.csproj.CoreCompileInputs.cache
+C:\Users\xalie\source\repos\Binaries\Binaries\obj\Debug\net6.0\Binaries.dll
+C:\Users\xalie\source\repos\Binaries\Binaries\obj\Debug\net6.0\refint\Binaries.dll
+C:\Users\xalie\source\repos\Binaries\Binaries\obj\Debug\net6.0\Binaries.pdb
+C:\Users\xalie\source\repos\Binaries\Binaries\obj\Debug\net6.0\Binaries.genruntimeconfig.cache
+C:\Users\xalie\source\repos\Binaries\Binaries\obj\Debug\net6.0\ref\Binaries.dll
